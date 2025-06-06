@@ -1,6 +1,6 @@
 # NVCreations
 <p align="center">
-  <img src="https://github.com/NVCreations33/NVCreations/blob/75834908dcda7325627ba4c7798dd5f3cb324f6f/Untitled%20design%20(17).png" alt="NV Creations Banner" width="100%">
+  <img src="https://github.com/NVCreations33/NVCreations33/blob/15194097f339bfa0e6a6d1295c6f35d68610396c/Untitled%20design%20(17).png" alt="NV Creations Banner" width="100%">
 </p>
 
 
