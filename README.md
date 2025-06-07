@@ -14,6 +14,8 @@ I build solutions in both software and hardware — from scripts and embedded sy
 ## Services
 - PCB design using EasyEDA
 - Arduino-based prototyping
+- Sensor-Based Controllers
+- Arduino-based Automation Projects
 - Custom solutions for unique problems
 
 ---
@@ -29,3 +31,5 @@ I build solutions in both software and hardware — from scripts and embedded sy
 ## Contact
 **Email**: demitha.y123@gmail.com  
 I’m open to freelance work, collaborations, and technical problem solving.
+
+#arduino #pcb #micro-controller #freelancer
